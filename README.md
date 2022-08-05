@@ -6,7 +6,7 @@ Comecei a pouco tempo no mundo da programação,no momento trabalho com front/ba
 Costumo jogar,assitir lives e sou apaixonado por esporte,mas o que eu mais gosto é basquete🏀.
 As vezes faço umas lives na twitch,dá uma passada lá e deixa o follow😊.
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](twitch.tv/Lonwely)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](twitch.tv/lonwely)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_whcv_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wylly-henryque-1317661b1/)
 
