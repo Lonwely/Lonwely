@@ -1,6 +1,3 @@
-
-
-
 ### Olá! Eu Sou o Wylly Henryque ✌️
 
 Comecei a pouco tempo no mundo da programação,no momento trabalho com front/backend mas estou estudando para ampliar meus conhecimentos.
@@ -23,11 +20,9 @@ As vezes faço umas lives na twitch,dá uma passada lá e deixa o follow😊.
 
 ## Atualmente estou estudando:
 <div style="display: inline_block"><br/>
-<img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img aling="center" alt="C#" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img aling="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
-
-
-
-
