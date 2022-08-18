@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Wylly Henryque ✌️
+### Olá! Meu nome é Wylly Henryque ✌️
 
 Comecei a pouco tempo no mundo da programação,no momento trabalho com front/backend mas estou estudando para ampliar meus conhecimentos.
 Costumo jogar,assitir lives e sou apaixonado por esporte,mas o que eu mais gosto é basquete🏀.
