@@ -1,8 +1,6 @@
-### Olá! Meu nome é Wylly Henryque ✌️
+### Hellow! My name is Wylly Henryque ✌️
 
-Comecei a pouco tempo no mundo da programação,no momento trabalho com front/backend mas estou estudando para ampliar meus conhecimentos.
-Costumo jogar,assitir lives e sou apaixonado por esporte,mas o que eu mais gosto é basquete🏀.
-As vezes faço umas lives na twitch,dá uma passada lá e deixa o follow😊.
+I just started in the programming world, at the moment I work with front/backend but I'm studying to expand my knowledge. I usually play, watch lives and I'm passionate about sport, but what I like the most is basketball🏀. Sometimes I do some lives on twitch, stop by and leave the follow😊.
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/lonwely/home)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_whcv_/)
