@@ -5,7 +5,7 @@
 - I just started in the programming world, i'm studying to expand my knowledge.
 - I usually play, watch lives and I'm passionate about sport, but what I like the most is basketball🏀.
 - I’m currently
-  - studying Systems Analysis and Development at Estácio 📚
+  - studying Systems Analysis and Development at <a href="https://estacio.br/inscricao/pos-ead" target="_blank">Estácio</a> .
   - And I'm waiting for an opportunity to work to show what I've been studying and learning on a daily basis.
 
 ## Technologies I use in my daily life:
