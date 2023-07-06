@@ -1,9 +1,13 @@
-### Hellow! My name is Wylly Henryque ✌️
+### Hellow! 
 
-I just started in the programming world, at the moment I work with front/backend but I'm studying to expand my knowledge. I usually play, watch lives and I'm passionate about sport, but what I like the most is basketball🏀. Sometimes I do some lives on twitch, stop by and leave the follow😊.
+- My name is Wylly Henryque, i'm 21 years old ✌️
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/lonwely/home)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_whcv_/)
+-I just started in the programming world, i'm studying to expand my knowledge.
+-I usually play, watch lives and I'm passionate about sport, but what I like the most is basketball🏀.
+-I’m currently
+  -studying Systems Analysis and Development at Estácio 📚
+  -And I'm waiting for an opportunity to work to show what I've been studying and learning on a daily basis.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wylly-henryque-1317661b1/)
 
 ## Technologies I use in my daily life:
