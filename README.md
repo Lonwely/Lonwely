@@ -8,7 +8,7 @@
   - Studying Systems Analysis and Development at <a href="https://estacio.br/inscricao/pos-ead" target="_blank">Estácio</a> .
   - And I'm waiting for an opportunity to work to show what I've been studying and learning on a daily basis.
 
-## Technologies I use in my daily life:
+## 💻My Skills💻:
 <div style="display: inline_block"><br/>
 <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-## I am currently studying:
+## 📚I am currently studying📚:
 <div style="display: inline_block"><br/>
 <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
