@@ -8,8 +8,6 @@
   - studying Systems Analysis and Development at Estácio 📚
   - And I'm waiting for an opportunity to work to show what I've been studying and learning on a daily basis.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wylly-henryque-1317661b1/)
-
 ## Technologies I use in my daily life:
 <div style="display: inline_block"><br/>
 <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
