@@ -1,0 +1,15 @@
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\bin\Debug\net6.0\Editor de texto em C#.exe
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\bin\Debug\net6.0\Editor de texto em C#.deps.json
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\bin\Debug\net6.0\Editor de texto em C#.runtimeconfig.json
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\bin\Debug\net6.0\Editor de texto em C#.dll
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\bin\Debug\net6.0\Editor de texto em C#.pdb
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.csproj.AssemblyReference.cache
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.AssemblyInfoInputs.cache
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.AssemblyInfo.cs
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.csproj.CoreCompileInputs.cache
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.dll
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\refint\Editor de texto em C#.dll
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.pdb
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\Editor de texto em C#.genruntimeconfig.cache
+C:\Users\REUNIÃO\Desktop\Meus Projetos\Editor de texto em C#\obj\Debug\net6.0\ref\Editor de texto em C#.dll
